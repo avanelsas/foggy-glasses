@@ -1,0 +1,8 @@
+/* The Journal blog template: one reading column, in the middle of the page. */
+
+.journal .post,
+.journal .entries,
+.journal .archive,
+.journal .not-found {
+  margin: 0 auto;
+}

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Foggy Glasses</title>
+  <id>https://avanelsas.github.io/foggy-glasses/</id>
+  <link href="https://avanelsas.github.io/foggy-glasses/"/>
+  <link rel="self" href="https://avanelsas.github.io/foggy-glasses/feed.xml"/>
+  <updated>2026-10-13T14:08:51+02:00</updated>
+  <author>
+    <name>Alexander van Elsas</name>
+  </author>
+  <entry>
+    <title>The true value of this community</title>
+    <link href="https://avanelsas.github.io/foggy-glasses/the-true-value-of-this-community/"/>
+    <id>https://avanelsas.github.io/foggy-glasses/the-true-value-of-this-community/</id>
+    <updated>2026-10-13T14:08:51+02:00</updated>
+    <summary>I've been thinking about the impact LLMs have, not on software development necessarily, but more on a community like Clojure slack. So much has been said about why LLMs are evil or not, and how we are all dumbing down, or becoming more productive, all depending on who you talk…</summary>
+    <category term="clojure-slack"/>
+    <category term="community"/>
+    <category term="interaction"/>
+  </entry>
+</feed>

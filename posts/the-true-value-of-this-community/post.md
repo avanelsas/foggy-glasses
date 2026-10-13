@@ -1,0 +1,29 @@
+I've been thinking about the impact LLMs have, not on software development necessarily, but more on a community like Clojure slack. So much has been said about why LLMs are evil or not, and how we are all dumbing down, or becoming more productive, all depending on who you talk to.
+
+I am not ready to write down all my thoughts on the use of LLMs in software development yet. I use them both professionally and personally. But the topic is more complex than good or bad, and it deserves a more thoughtful discussion.
+
+### An undesirable side effect
+
+One side effect, and I am not the only one noticing this, is that the dynamics in communities like Clojure slack seem to be changing rapidly. It seems that the topic is leading to a strong division between those that feel that LLMs should not be used, and those that have less issues using them.
+
+I think the division has a lot more complexity and nuances than these two sides, but I guess these sides are just the most vocal about it.
+
+Nevertheless, a side effect seems to be that a lot of channels (at least the ones I am subscribed to) seem to slowly quiet down. There is less interaction. Why this happens is difficult to know. Some people state it is because of the flood of AI supported projects that are announced (that channel is still very active), but I wonder if it could also be related to the inevitable (emotional) pressure that is piled upon the occupation of software engineering with the rise of LLMs.
+
+Perhaps we have less energy for communication, for interaction. I've been somewhat of a passive member in the community. If there are topics I can contribute something relevant, I try. A shoutout must go to the community maintainers that are always on, always interacting, and always giving their best to make the community work for all of us.
+
+### A recipe for irrelevance
+
+The community is in essence nothing more than its members. If we stop communicating, stop interacting, then the community eventually will become irrelevant. Perhaps a different way to look at this is that the community isn't about AI, nor about the best handwritten software in the world. It must be about sharing our passion, enthusiasm and knowledge about the language and the things we can produce with it.
+
+Behind almost every project, AI assisted or handwritten, there is a human being trying to solve something he or she is passionate about. We cannot all be the best on our trade, nor can we all be the worst. There is a large group in the middle that looks up at their seniors for guidance and help and will look to their peers and juniors with the same offering. Isn't that in the end what is the most valuable?
+
+Does it really change a community if a person writes his code by hand, or that someone else uses an LLM to solve a problem that is important to him or her? It may matter from a moral, a job, or quality perspective. And if that is important, there are a clear set of leaders with excellent projects that we can lean on. But the moral issue isn't a problem a community can easily solve. I do not think this community thrives on morality, on quality, on better or worse. It must thrive on its members.
+
+### The best way forward?
+
+I believe we are here to interact, to learn, to give, to take, to listen, to talk, to build. That is what makes a community thrive. And while LLMs may take air and energy away for a variety of reasons, we can choose not to give up on what this community is about.
+
+In the end I think a community is defined by what it gives, not by what it takes. It has always given me a lot, and I for one will continue to try to give back where I can.
+
+#clojure-slack #community #interaction
