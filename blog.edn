@@ -1,0 +1,14 @@
+{:title            "Foggy Glasses"
+ :language         "en"
+ :template         :journal
+ :available-themes ["ocean" "default" "forest" "sunset" "neo-brutalist" "aurora" "mono-ai" "warm-mineral"]
+ :per-page         10
+
+ ;; Set these two before you publish.
+
+ ;; Who writes the blog, in its feed. The title of the blog when left out.
+ :author "Alexander van Elsas"
+
+ ;; Where the blog is published. Every link of a published page starts there.
+ :address "https://avanelsas.github.io/foggy-glasses/"
+ }
