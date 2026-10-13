@@ -12,6 +12,8 @@ I'm a computer scientist that started learning his craft at university when comp
 
 From there I ended up going into managing teams and as they became larger, I crawled up the management ladder as well. At some point I realized I liked building things more than playing the corporate game and I left for my first startup. Now, some 20 years later with both successful and failed businesses, I am still in the tech world, both as a developer (mostly Clojurescript/Reframe/React) and as a CEO of a small Clojure based company I once started with my friend Jeroen van Dijk.
 
+### The blog
+
 I'm not sure what the blog will be about yet. It will touch on LLMs, the things I create or think about creating, and things I wonder about in our tech world.
 
 ![Foggy Glasses](foggy_glasses.png)
