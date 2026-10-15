@@ -4,10 +4,20 @@
   <id>https://avanelsas.github.io/foggy-glasses/</id>
   <link href="https://avanelsas.github.io/foggy-glasses/"/>
   <link rel="self" href="https://avanelsas.github.io/foggy-glasses/feed.xml"/>
-  <updated>2026-10-13T14:08:51+02:00</updated>
+  <updated>2026-10-15T13:31:48+02:00</updated>
   <author>
     <name>Alexander van Elsas</name>
   </author>
+  <entry>
+    <title>On client state complexity</title>
+    <link href="https://avanelsas.github.io/foggy-glasses/on-client-state-complexity/"/>
+    <id>https://avanelsas.github.io/foggy-glasses/on-client-state-complexity/</id>
+    <updated>2026-10-15T13:31:48+02:00</updated>
+    <summary>For some reason my development experiences have always been on the client side. Not because I wasn't interested in platforms or backends, but usually because I worked with people way more experienced than me. I did my share of work in mobile app development, and different client…</summary>
+    <category term="client-state"/>
+    <category term="server-state"/>
+    <category term="web-components"/>
+  </entry>
   <entry>
     <title>The true value of this community</title>
     <link href="https://avanelsas.github.io/foggy-glasses/the-true-value-of-this-community/"/>
