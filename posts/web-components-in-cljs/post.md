@@ -411,3 +411,5 @@ In another post I will try to explain some of the challenges you might run into 
 
 ## Source code
 If you want to see more code, then everything is available in the [BareDOM](https://github.com/avanelsas/baredom) web component library. it currently holds more than 100 web components, and you can see every one of them in the demo that is on the accompanying GitHub page [here](https://avanelsas.github.io/baredom/).
+
+#web-components #baredom #cljs #clojurescript

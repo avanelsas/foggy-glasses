@@ -14,6 +14,10 @@
     <id>https://avanelsas.github.io/foggy-glasses/web-components-in-cljs/</id>
     <updated>2026-10-16T14:14:18+02:00</updated>
     <summary>I read about web components years go, but never really had the time to try them out. The promise of web components is attractive, you get framework independence, native browser performance, strict encapsulation all for free. When I finally got around to trying them out it was…</summary>
+    <category term="web-components"/>
+    <category term="baredom"/>
+    <category term="cljs"/>
+    <category term="clojurescript"/>
   </entry>
   <entry>
     <title>On client state complexity</title>
