@@ -4,10 +4,17 @@
   <id>https://avanelsas.github.io/foggy-glasses/</id>
   <link href="https://avanelsas.github.io/foggy-glasses/"/>
   <link rel="self" href="https://avanelsas.github.io/foggy-glasses/feed.xml"/>
-  <updated>2026-10-15T13:31:48+02:00</updated>
+  <updated>2026-10-16T14:14:18+02:00</updated>
   <author>
     <name>Alexander van Elsas</name>
   </author>
+  <entry>
+    <title>Web components in cljs</title>
+    <link href="https://avanelsas.github.io/foggy-glasses/web-components-in-cljs/"/>
+    <id>https://avanelsas.github.io/foggy-glasses/web-components-in-cljs/</id>
+    <updated>2026-10-16T14:14:18+02:00</updated>
+    <summary>I read about web components years go, but never really had the time to try them out. The promise of web components is attractive, you get framework independence, native browser performance, strict encapsulation all for free. When I finally got around to trying them out it was…</summary>
+  </entry>
   <entry>
     <title>On client state complexity</title>
     <link href="https://avanelsas.github.io/foggy-glasses/on-client-state-complexity/"/>
