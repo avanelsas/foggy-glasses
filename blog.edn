@@ -11,4 +11,7 @@
 
  ;; Where the blog is published. Every link of a published page starts there.
  :address "https://avanelsas.github.io/foggy-glasses/"
+
+ ;; The picture that a chat shows with a link to a page that has none of its own.
+ :link-preview "link-preview.jpg"
  }
