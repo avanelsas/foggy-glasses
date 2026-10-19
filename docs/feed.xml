@@ -4,10 +4,21 @@
   <id>https://avanelsas.github.io/foggy-glasses/</id>
   <link href="https://avanelsas.github.io/foggy-glasses/"/>
   <link rel="self" href="https://avanelsas.github.io/foggy-glasses/feed.xml"/>
-  <updated>2026-10-16T14:14:18+02:00</updated>
+  <updated>2026-10-19T15:42:16+02:00</updated>
   <author>
     <name>Alexander van Elsas</name>
   </author>
+  <entry>
+    <title>Pencil versus prompt</title>
+    <link href="https://avanelsas.github.io/foggy-glasses/pencil-versus-prompt/"/>
+    <id>https://avanelsas.github.io/foggy-glasses/pencil-versus-prompt/</id>
+    <updated>2026-10-19T15:42:16+02:00</updated>
+    <summary>I've always been interested in what ideas other people have to create open-source software. There can be many reasons why something is created, perhaps because you had a good idea, or some pain you want to fix, learning something new, or just by accident.</summary>
+    <category term="LLM"/>
+    <category term="software-development"/>
+    <category term="creation"/>
+    <category term="creativity"/>
+  </entry>
   <entry>
     <title>Web components in cljs</title>
     <link href="https://avanelsas.github.io/foggy-glasses/web-components-in-cljs/"/>
