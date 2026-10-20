@@ -1,7 +1,18 @@
-{:title            "Foggy Glasses"
+{;; The name of the blog, in the navbar and in the title of every page.
+ :title            "Foggy Glasses"
+
+ ;; The language of the pages.
  :language         "en"
+
+ ;; What the blog looks like: :journal, :notebook, :magazine, :longform or :diary.
  :template         :journal
+
+ ;; The themes a reader can pick from, by the name of a BareDOM theme preset. The first is
+ ;; the one a reader starts with. Every theme: "ocean" "default" "forest" "sunset"
+ ;; "neo-brutalist" "aurora" "mono-ai" "warm-mineral".
  :available-themes ["ocean" "default" "forest" "sunset" "neo-brutalist" "aurora" "mono-ai" "warm-mineral"]
+
+ ;; How many posts a page of the home page shows
  :per-page         10
 
  ;; Set these two before you publish.
@@ -12,6 +23,18 @@
  ;; Where the blog is published. Every link of a published page starts there.
  :address "https://avanelsas.github.io/foggy-glasses/"
 
- ;; The picture that a chat shows with a link to a page that has none of its own.
+ ;; The picture that a chat shows with a link to a page that has none of its own: a
+ ;; PNG, JPEG or GIF beside this file. A square one of 400x400 is shown small beside
+ ;; the text, a wide one of 1200x630 beneath it.
  :link-preview "link-preview.jpg"
- }
+
+ ;; The logo in the navbar, in place of the title, which it can hold in a font of its own:
+ ;; an SVG, PNG, JPEG, GIF or WebP beside this file. One name is the logo in both modes of
+ ;; the theme. A map gives one for each, and the one under :dark is shown when the theme is
+ ;; dark. When left out: the title.
+ :logo {:light "Foggy_Glasses_logo.png" :dark "Foggy_Glasses_logo.png"}
+
+ ;; The icon of the blog in the tab of a browser: an SVG, PNG or ICO beside this file, one
+ ;; name or a map as for the logo. When left out: none.
+ :favicon {:light "favicon-light.svg" :dark "favicon-dark.svg"}
+}
