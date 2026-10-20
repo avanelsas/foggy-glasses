@@ -5,7 +5,7 @@
  :language         "en"
 
  ;; What the blog looks like: :journal, :notebook, :magazine, :longform or :diary.
- :template         :journal
+ :template         :notebook
 
  ;; The themes a reader can pick from, by the name of a BareDOM theme preset. The first is
  ;; the one a reader starts with. Every theme: "ocean" "default" "forest" "sunset"
