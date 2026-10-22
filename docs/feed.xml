@@ -4,10 +4,25 @@
   <id>https://avanelsas.github.io/foggy-glasses/</id>
   <link href="https://avanelsas.github.io/foggy-glasses/"/>
   <link rel="self" href="https://avanelsas.github.io/foggy-glasses/feed.xml"/>
-  <updated>2026-10-20T10:20:24+02:00</updated>
+  <updated>2026-10-22T17:14:26+02:00</updated>
   <author>
     <name>Alexander van Elsas</name>
   </author>
+  <entry>
+    <title>Fixing web components friction points</title>
+    <link href="https://avanelsas.github.io/foggy-glasses/fixing-web-components-friction-points/"/>
+    <id>https://avanelsas.github.io/foggy-glasses/fixing-web-components-friction-points/</id>
+    <updated>2026-10-22T17:14:26+02:00</updated>
+    <summary>In a previous post I discussed creating web components using ClojureScript and besides some of the advantages of web components I mentioned that there are some clear downsides as well. Web components aren't easy and for a component framework user it takes some mental gymnastics…</summary>
+    <category term="web-components"/>
+    <category term="BareMirror"/>
+    <category term="Lit"/>
+    <category term="rendering"/>
+    <category term="frameworks"/>
+    <category term="BareDOM"/>
+    <category term="JavaScript"/>
+    <category term="ClojureScript"/>
+  </entry>
   <entry>
     <title>A deception to make us feel better</title>
     <link href="https://avanelsas.github.io/foggy-glasses/a-deception-to-make-us-feel-better/"/>
