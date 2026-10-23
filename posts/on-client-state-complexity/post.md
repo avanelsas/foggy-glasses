@@ -46,4 +46,4 @@ They can be utilised, whether it is done with client or with server state. And t
 
 It is an interesting journey, in which I am discovering the pros and cons of creating and using Web Components. As that journey is not over by a long shot, more on that in another post in the future.
 
-#client-state #server-state #web-components
+#client_state #server_state #web_components

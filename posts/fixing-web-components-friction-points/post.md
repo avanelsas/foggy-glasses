@@ -269,4 +269,4 @@ I hope that this helps to make web components a little more useful in your app d
 [^footnote1]: disclaimer: I use Claude Code to brainstorm, plan, and help with writing code and tests for both BareDOM and BareMirror.
 [^footnote2]: Gzipped, on a page that loads BareDOM. Without BareDOM it costs about 78KB, because it loads BareDOM's shared base.js.
 
-#web-components #BareMirror #Lit #rendering #frameworks #BareDOM #JavaScript #ClojureScript
+#web_components #BareMirror #Lit #rendering #frameworks #BareDOM #JavaScript #ClojureScript

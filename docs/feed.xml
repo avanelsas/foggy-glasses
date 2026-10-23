@@ -14,7 +14,7 @@
     <id>https://avanelsas.github.io/foggy-glasses/fixing-web-components-friction-points/</id>
     <updated>2026-10-22T17:14:26+02:00</updated>
     <summary>In a previous post I discussed creating web components using ClojureScript and besides some of the advantages of web components I mentioned that there are some clear downsides as well. Web components aren't easy and for a component framework user it takes some mental gymnastics…</summary>
-    <category term="web-components"/>
+    <category term="web components"/>
     <category term="BareMirror"/>
     <category term="Lit"/>
     <category term="rendering"/>
@@ -40,7 +40,7 @@
     <updated>2026-10-19T15:42:16+02:00</updated>
     <summary>I've always been interested in what ideas other people have to create open-source software. There can be many reasons why something is created, perhaps because you had a good idea, or some pain you want to fix, learning something new, or just by accident.</summary>
     <category term="LLM"/>
-    <category term="software-development"/>
+    <category term="software development"/>
     <category term="creation"/>
     <category term="creativity"/>
   </entry>
@@ -50,10 +50,9 @@
     <id>https://avanelsas.github.io/foggy-glasses/web-components-in-cljs/</id>
     <updated>2026-10-16T14:14:18+02:00</updated>
     <summary>I read about web components years go, but never really had the time to try them out. The promise of web components is attractive, you get framework independence, native browser performance, strict encapsulation all for free. When I finally got around to trying them out it was…</summary>
-    <category term="web-components"/>
-    <category term="baredom"/>
-    <category term="cljs"/>
-    <category term="clojurescript"/>
+    <category term="web components"/>
+    <category term="BareDOM"/>
+    <category term="ClojureScript"/>
   </entry>
   <entry>
     <title>On client state complexity</title>
@@ -61,9 +60,9 @@
     <id>https://avanelsas.github.io/foggy-glasses/on-client-state-complexity/</id>
     <updated>2026-10-15T13:31:48+02:00</updated>
     <summary>For some reason my development experiences have always been on the client side. Not because I wasn't interested in platforms or backends, but usually because I worked with people way more experienced than me. I did my share of work in mobile app development, and different client…</summary>
-    <category term="client-state"/>
-    <category term="server-state"/>
-    <category term="web-components"/>
+    <category term="client state"/>
+    <category term="server state"/>
+    <category term="web components"/>
   </entry>
   <entry>
     <title>The true value of this community</title>
@@ -71,7 +70,7 @@
     <id>https://avanelsas.github.io/foggy-glasses/the-true-value-of-this-community/</id>
     <updated>2026-10-13T14:08:51+02:00</updated>
     <summary>I've been thinking about the impact LLMs have, not on software development necessarily, but more on a community like Clojure slack. So much has been said about why LLMs are evil or not, and how we are all dumbing down, or becoming more productive, all depending on who you talk…</summary>
-    <category term="clojure-slack"/>
+    <category term="Clojure Slack"/>
     <category term="community"/>
     <category term="interaction"/>
   </entry>

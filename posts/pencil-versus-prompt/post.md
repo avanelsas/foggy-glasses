@@ -40,4 +40,4 @@ Creation may have become easier, for creativity it is better to go back to the d
 
 [^first]: Image of Adrian Newey taken from the RedBullRacing [reddit](https://www.reddit.com/r/RedBullRacing/comments/rw96ri/adrian_newey_and_that_famous_drawing_board/)
 
-#LLM #software-development #creation #creativity
+#LLM #software_development #creation #creativity

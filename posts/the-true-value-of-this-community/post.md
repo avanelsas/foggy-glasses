@@ -26,4 +26,4 @@ I believe we are here to interact, to learn, to give, to take, to listen, to tal
 
 In the end I think a community is defined by what it gives, not by what it takes. It has always given me a lot, and I for one will continue to try to give back where I can.
 
-#clojure-slack #community #interaction
+#Clojure_Slack #community #interaction
