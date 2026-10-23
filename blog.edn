@@ -5,7 +5,7 @@
  :language         "en"
 
  ;; What the blog looks like: :journal, :notebook, :magazine, :longform or :diary.
- :template         :journal
+ :template         :magazine
 
  ;; The themes a reader can pick from, by the name of a BareDOM theme preset. The first is
  ;; the one a reader starts with. Every theme: "ocean" "default" "forest" "sunset"
@@ -37,4 +37,14 @@
  ;; The icon of the blog in the tab of a browser: an SVG, PNG or ICO beside this file, one
  ;; name or a map as for the logo. When left out: none.
  :favicon {:light "favicon-light.svg" :dark "favicon-dark.svg"}
+
+ ;; The titles of the posts and the pages, filled with a gradient of the colours of the theme.
+ ;; The titles of a list are filled too. Only true fills them. When left out: false.
+ :gradient-titles  true
+
+ ;; The colours of the theme, drifting behind the navbar. Only true shows them. When left
+ ;; out: false.
+ :navbar-colors    true
+
+ :page-colors true
 }
