@@ -6,7 +6,7 @@ I also tried to read up quite a bit on web components. Lots of opinions on them,
 
 I will try to explain some of these challenges and show how they can be addressed using [BareDOM](https://github.com/avanelsas/BareDOM). I have created [^footnote1] a small set of functions inside that repository, called [BareMirror](https://github.com/avanelsas/baredom/blob/main/baremirror/README.md), that addresses some of these issues. Although BareMirror works well with BareDOM, there is no reason it cannot be used for other web component libraries. And although it is written in ClojureScript, it ships as a plain ES module for JavaScript and TypeScript.
 
-Here are some of the major challenges with web components.
+## Major challenges with web components
 
 ### 1. DOM rebuilding destroys UI state
 
