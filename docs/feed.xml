@@ -4,10 +4,21 @@
   <id>https://avanelsas.github.io/foggy-glasses/</id>
   <link href="https://avanelsas.github.io/foggy-glasses/"/>
   <link rel="self" href="https://avanelsas.github.io/foggy-glasses/feed.xml"/>
-  <updated>2026-10-22T17:14:26+02:00</updated>
+  <updated>2026-10-23T18:04:52+02:00</updated>
   <author>
     <name>Alexander van Elsas</name>
   </author>
+  <entry>
+    <title>BareBlog v0.2.0: Adding cleanup, color and movement to blog themes</title>
+    <link href="https://avanelsas.github.io/foggy-glasses/adding-cleanup-color-and-movement-to-blog-themes/"/>
+    <id>https://avanelsas.github.io/foggy-glasses/adding-cleanup-color-and-movement-to-blog-themes/</id>
+    <updated>2026-10-23T18:04:52+02:00</updated>
+    <summary>BareBlog v0.2.0 has just been released. It contains a few handy tools and visual possibilities to set. Let's start with the visual possibilities. You can set any of these options in your blog.edn file.</summary>
+    <category term="BareBlog"/>
+    <category term="release"/>
+    <category term="color"/>
+    <category term="animation"/>
+  </entry>
   <entry>
     <title>Fixing web components friction points</title>
     <link href="https://avanelsas.github.io/foggy-glasses/fixing-web-components-friction-points/"/>
