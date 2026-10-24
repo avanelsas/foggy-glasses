@@ -4,10 +4,21 @@
   <id>https://avanelsas.github.io/foggy-glasses/</id>
   <link href="https://avanelsas.github.io/foggy-glasses/"/>
   <link rel="self" href="https://avanelsas.github.io/foggy-glasses/feed.xml"/>
-  <updated>2026-10-23T18:04:52+02:00</updated>
+  <updated>2026-10-24T16:33:36+02:00</updated>
   <author>
     <name>Alexander van Elsas</name>
   </author>
+  <entry>
+    <title>I created this because I wanted to</title>
+    <link href="https://avanelsas.github.io/foggy-glasses/i-created-this-because-i-wanted-to/"/>
+    <id>https://avanelsas.github.io/foggy-glasses/i-created-this-because-i-wanted-to/</id>
+    <updated>2026-10-24T16:33:36+02:00</updated>
+    <summary>Looking at the front page of Hacker news nowadays it seems almost anything is possible now with LLM supported development. As development is costing less effort (whether it is better depends on who you talk to), it now seems anything is getting build, often with a motivation of…</summary>
+    <category term="BareBlog"/>
+    <category term="writing"/>
+    <category term="blogtool"/>
+    <category term="BareDOM"/>
+  </entry>
   <entry>
     <title>BareBlog v0.2.0: Adding cleanup, color and movement to blog themes</title>
     <link href="https://avanelsas.github.io/foggy-glasses/adding-cleanup-color-and-movement-to-blog-themes/"/>
