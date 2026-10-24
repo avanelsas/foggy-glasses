@@ -22,7 +22,7 @@ Nothing fancy, I figured I might as well use Github pages and push something the
 
 ## Bareblog
 
-So here it is. It isn't the prettiest, best or most flexible blog solution around. But it does everything I want it to do, and it can be extended if I think of new features. It only has a few commands:
+[So here it is](https://github.com/avanelsas/bareblog). I called it BareBlog. It isn't the prettiest, best or most flexible blog solution around. But it does everything I want it to do, and it can be extended if I think of new features. It only has a few commands:
 
 ```
 bareblog init "My blog"           a new blog
