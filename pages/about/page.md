@@ -1,3 +1,5 @@
+![Foggy Glasses](foggy_glasses.png)
+
 I started blogging 20 years ago, and for quite some time I enjoyed writing about a lot of different topics. Some of my posts were well read, and throughout the years the blog got more readers. At some point, the pressure of writing useful things got too high for me. I just ran out of words and didn't write anything for a long time.
 
 ### Why pick it up now?
@@ -23,8 +25,6 @@ You can find my efforts, all open source, at my [GitHub projects](https://github
 ### The blog
 
 I'm not sure what the blog will be about yet. It will touch on LLMs, the things I create or think about creating, and things I wonder about in our tech world.
-
-![Foggy Glasses](foggy_glasses.png)
 
 ### Why the name you ask?
 
