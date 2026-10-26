@@ -1,0 +1,68 @@
+# Why television is still important (to me)
+
+![Old tv](television.webp)
+
+I am old enough that I still watch old fashioned television occasionally. Mostly interviews, news, or documentaries. I should probably mention I live in the Netherlands. Yes, we have all streaming services and broadband Internet, but I guess I am weird that way. There are some things with television that annoy me to no end. I sometimes wonder why I still bother
+
+## Warning: you can't unhear it
+
+Lately I've noticed that people that are asked a question or provide an opinion (a news reporter, an interview) often seem to respond with "Nou ja,...", which roughly translates to "Well now,...".
+
+![Uhm, well](uhm-well.jpg)
+
+E.g. "A news reader asking a war correspondent in a country at war asks *"Do you think the war will end soon?"*, and the reporter responding with *"Well now, blablabla"*.
+
+I am not a language purist at all and will make it up as I go. But this behaviour of venting your opinion with a *"Nou ja"* is somehow infuriating to me. Not annoying but more listening to a senile Trump ramble for more than a minute infuriating. I can't take anything the person utters after *"Nou ja"* serious.
+
+Once you hear it, you can't unhear it. Where does this come from, I wonder? I can imagine that people that are not used to talking to a camera might use *"Uhm"* or some variation of that. I do that too. But *"Nou ja"*? That's two nonsense words in a row. It even gets worse if that person is asked multiple questions. Once they fall into the *"Nou ja"* trap they cannot seem to get out.
+
+These people are supposed to be professionals. They are on tv, as a reporter, as a commenter, and they can't even start a sentence without using *"Nou ja"*? Are they using LLMs to prepare for an interview and then cannot remember all these complex AI sentences?
+
+There is a reason why I never want to get on camera for anything. If I started my phrases with *"Nou ja"* I would have to start hating myself as well as all the others doing this.
+
+I urge you not to watch television anymore. Besides the number of incompetent and idiotic people you will see, once you hear *"Nou ja"*, you simply cannot unhear it, ever again.
+
+## Listen to me, I am famous
+
+In The Netherlands we seem to love tv shows with celebrities. Celebrities in game shows, survival shows, singing, cooking, learning a new hobby, the variations are endless. It is a whole new category of jobs. I never watch celebrity shows, I can't. I physically get restless, angry, annoyed, feel I need to either scream or run away. I guess that is why zapping was invented.
+
+The result is that I never know who these celebrities are, or why they (in my mind) behave like complete idiots on television. People are so comfortable nowadays to talk into a camera, that they all seem to take on this attitude where I as a watcher must be in awe, because they are on the show.
+
+In our profession we talk a lot about AI reducing us to dumb fools, but right now I'm more worried about our dumbness starting level in ordinary life, which often seems much lower than buffoon.
+
+## The most idiotic Internet invention?
+
+It's a small sidestep to influencers, probably the most dumbfounding and idiotic Internet invention ever. It is extremely difficult for me to even attempt to listen to some influencer talking into a camera. It is even more difficult for me to understand why anyone would spend even a minute of their life listening to some idiot explaining to us that all medical knowledge we have can be thrown out because we should all live on a diet of meat and nothing else. Or to go to this completely secret store where you can buy the best French fries in the world (at 5 times the price, which seems perfectly ok) etc.
+
+I thought for a long time that the core of my irritation was the stupidity. But it isn't, at least not all of it. It is the arrogance of the sender that life is all about me, myself and I. And the mindless following of those that listen or watch.
+
+It is like watching a 15-year-old perform an intense and beautiful love song, never having experienced love or life for that matter. Sure, you can sing, but with all due respect, you don't know the first thing about love. We are taking advice from people who are paid to say stupid things, or do not have a clue what they are saying, yet we listen to it, we believe it. It's beyond what I can handle in life.
+
+It is Formula 1 zooming in on some top model girlfriend of a racer, or some famous person, while Max Verstappen is just about to set up an incredible pass on the car ahead. I watch the race because I want to see the race, not some celebrity trying to look great on a screen. I am lucky I do not drink alcohol, because I'd probably throw my beer through the tv.
+
+I found a counter example this week that was well done. A football player was playing his 500th(!) professional game, and he walked onto the field with his small children (cute). And, against all odds, he scores an important goal, and the camera finds mom and kids on the stands waving to their dad. Perfectly executed, and it was great because it made sense.
+
+I wonder what all of this says about me. Maybe I am just getting too old for this?
+
+# Fact free
+
+This is probably the biggest annoyance I have with tv interviews. It seems to me that people just do not seem to understand the difference between a fact and an opinion anymore. We have slowly gotten used to people lying on tv, mostly due to politicians who do not seem to need integrity to be voted into office.
+
+To attract more attention, tv producers seem to understand that it isn't important if something is true, if the person uttering it presents his or her views as a fact, preferably controversial and loud. Never mind that reality is different, or that science says otherwise, soundbites and opinions formulated as facts sell better than accepted facts.
+
+Politicians clearly have taken this to the next level. I don't even understand why the media bothers asking them questions. They never get an answer to the question and must listen to some predetermined campaign message that is not relevant, most likely not true. But hey, he keeps repeating it, so there must be something there. I don't even know why I am complaining, we don't have Donald Trump here, but still, Dutch politicians do this too. Perhaps slightly more subtle than their American counterparts.
+
+What we tend to forget is that this is our own doing. We can blame tv producers, politicians, celebrities all day long, but their power comes from us. We hand it over to them and accept that they act like this on tv. The moment we accepted that things like character, integrity, and truth were not all that important, was the moment we gave in and let these people spew their nonsense everywhere.
+
+Sometimes I just don't understand the world I'm living in anymore.
+
+## Why bother?
+
+So why do I bother do you ask. I might as well skip television and spent my time on something more useful. I've asked myself that question before, and the honest answer is that a. I like to complain about things that annoy me, and b. listening to people that know what they are talking about is useful. Online I mostly see things that are work-related. I rarely take the time to watch something on Youtube or some other streaming service.
+
+The tv is different, it sometimes offers things I do not know a lot about, things out of my comfort zone. And I get to decide if I want to watch it or not (if my wife isn't around 😉) and complain about it or not. And usually, within a few minutes you can determine if someone knows what he or she is talking about or is just another celebrity pretending.
+
+I guess in a way I hope that things will change. That facts, character, integrity and truth will matter again. Until then, I'll be complaining quite a bit. Probably because I am stupid and getting old.
+
+
+#television #interviews #language #influencers #fact_free
