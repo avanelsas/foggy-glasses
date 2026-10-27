@@ -8,7 +8,7 @@ I will not attempt to digest the bigger picture today, but instead focus on some
 
 ## Background
 
-Disclaimer: I do not consider myself a an experienced software developer, especially since I have had many different roles on my professional career, software development only being a part of that. I've learned to program when shared UNIX workstations were still a thing. I have worked in technology since my first job some than 3 decades ago. I've been part of large research programs, worked on large technology projects for the largest Dutch Telecom provider, went into startups more than 15 years ago and have been exposed to all kinds of technologies during those years.
+Disclaimer: I do not consider myself an experienced software developer, especially since I have had many different roles on my professional career, software development only being a part of that. I've learned to program when shared UNIX workstations were still a thing. I have worked in technology since my first job some than 3 decades ago. I've been part of large research programs, worked on large technology projects for the largest Dutch Telecom provider, went into startups more than 15 years ago and have been exposed to all kinds of technologies during those years.
 
 I've been part of teams building large scale platforms (hundreds of servers running simultaneously), have worked on client software in different forms and shapes and have had responsibility for commercialising that tech. The tech we created has always run commercially in production environments. While I do not assume I know everything there is to know about software development, I've been around it enough to understand and appreciate its complexity.
 
