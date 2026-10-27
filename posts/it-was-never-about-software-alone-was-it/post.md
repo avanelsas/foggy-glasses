@@ -1,0 +1,69 @@
+# It was never about software alone, was it?
+
+![Automation](automation.jpeg)
+
+I've been quiet about LLMs in general, as I have always thought that the topic is complex and touches a lot of different aspects of work, society, business, and even society. I find it difficult to grasp everything at once. And that makes it difficult to form an opinion. There are smarter people than me that can present their views in a much better way ([the Clojure Conj video](https://www.youtube.com/watch?v=7yeH1DqK984) of Stuart Halloway comes to mind).
+
+I will not attempt to digest the bigger picture today, but instead focus on something smaller, specifically LLMs and software (which is a big item already). Having read so many opinions in Clojure slack channels and tech blogs I am interested in, it seems that the world of software engineers is quickly dividing itself into 2 distinct groups, those that loathe LLMs (for many good reasons), and those that either like using LLMs or pragmatically use them because they have to. I'm pretty sure there is a lot more diversification but that gets lost in the loudest voices, I guess.
+
+## Background
+
+Disclaimer: I do not consider myself a an experienced software developer, especially since I have had many different roles on my professional career, software development only being a part of that. I've learned to program when shared UNIX workstations were still a thing. I have worked in technology since my first job some than 3 decades ago. I've been part of large research programs, worked on large technology projects for the largest Dutch Telecom provider, went into startups more than 15 years ago and have been exposed to all kinds of technologies during those years.
+
+I've been part of teams building large scale platforms (hundreds of servers running simultaneously), have worked on client software in different forms and shapes and have had responsibility for commercialising that tech. The tech we created has always run commercially in production environments. While I do not assume I know everything there is to know about software development, I've been around it enough to understand and appreciate its complexity.
+
+When we (my team and I) first heard about LLMs being used in software development, we were quite sceptic. Perhaps not out of a feeling of superiority, but more because we had worked hard to get a decent process in which a team with both experienced and unexperienced developers can think about new ideas, flesh them out, create working code for it and deliver it to a production environment together.
+
+## Learning to use LLMs
+
+We did not quite believe an LLM interface would help us to become a better team or deliver better results. Since there was strong indication that more companies were using these models, we felt we should at least familiarise ourselves with it.
+
+We started using them (in the wrong way) initially, by asking it questions. We didn't trust it to touch our code base, so the logical next thing was to use it as a tool like how we used search, stack overflow etc. This turned out to be a mistake. The results weren't great, and the way the LLM would deliver information did not give us a feeling of trust.
+
+As time went on, we read about how teams were using LLMs, with things like harnesses, rules and other things to get the machine under control. That did not help much either. At some point however we had experimented a bit with code reviews (by copy-pasting some code into the prompt), and that seemed a more interesting use. We decided to add Claude as a review tool to our CI process. A developer writes code, reviews and tests himself, then pushes the branch to git, and Claude does another review when the PR is opened. And to be fair, Claude review found a lot of small inconsistencies and issues in our code that the individual developer missed. Only when there were no issues reported would we then proceed to the next step where a colleague would review the code.
+
+This is, still, by far the most useful application for us. As models got better, their suggestions to fix issues became smarter and better. Which helps to feel a little more at ease using this form of automation in our process. And in fairness, this resulted in better code. As a team, with different expertise's and experiences, it is difficult to get everything right all the time, and still ship. We do our best to use all of our experiences together to deliver the best code possible, but as human beings we make mistakes and having a ruthless code reviewer automated into your process is a benefit.
+
+## Is reviewing the killer app?
+
+At some point we felt more comfortable using these models, and we started using them earlier in the process. At first, we tried to let it answer questions that you ask yourself when going from idea to implementation. That didn't work well. It wasn't just that the LLM would provide a lot of text and reasoning, but that it was so damn sure of itself. That did not give trust, on the contrary. And we found out quickly that pushing back on the LLM would immediately lead to the LLM agreeing it was wrong etc.
+
+We decided to turn it around. Instead of asking the LLM, we forced it to ask us questions. Which basically means again using LLM automation to review. Not code, but ideas, concepts, plans, technical details, specs etc. And here again there is value to be found. While we still do the thinking of the what and the how, the LLM can offer alternative views, ask questions that forces us to rethink our assumptions and so on. It becomes a process and information feedback tool, something that can be automated to our advantage.
+
+## Writing code
+
+LLMs can write code too. You may not like that idea, but they can. And here it seems likely where the biggest gains are going to be made in the coming years. It won't deliver the best solution, that's not possible if stochastic models are driving results. If you are writing code that others depend on, then code quality and simplicity are probably dominant factors.
+
+But you do not always need the best solution. I know companies that are commercially successful with a horrible software process and a complex code base. Yet it serves their customers well, makes them money and they accept the complexities that come with it. It isn't ideal, but the world never is.
+
+## It isn't about software alone
+
+To me this shows that it is never about software alone. It doesn't really matter that LLM models will get better at coding. Because the job never really was about coding or software alone.
+
+The proof is right in front of us. There are companies doing great commercially with not-so-great software, and there are incredibly skilled software engineers that create magnificent things and never make a penny from it. Technical debt can be a powerful commercial model.
+
+## The most important task of coding is done before you write your first line
+
+and long after you write the last line.
+
+Ideation, conceptualising, requiring, spec'ing, these are all skills that have a huge impact on what you end up creating. Ask an LLM to build you a platform based upon a badly formed idea, an incomplete or incorrect set of requirements and specs, and it will fail. No matter how well it can write code. It will deliver the best solution that wasn't what you had in mind or needed.
+
+I have made that mistake many times, long before LLMs existed.
+
+Companies claiming they are automating hundreds or thousands of pull request now using LLMs, in my opinion are signalling us that they have no idea what they are doing. It isn't a measure of success. It is a measure of indifference. Developers getting swamped with review requests they cannot even begin to understand need to get out and find a job where software development is taken seriously.
+
+The same is true for the process after your last line of code. The code needs to run, you will find bugs, and worse, your customer will find them. Solving them brute force, every day, just because the process before writing a single line of code was executed poorly, will not be a lasting business model. It will be a measure of lack of understanding, or worse, lack of care.
+
+## An LLM isn't a software engineer or a brain
+
+![An LLM is not a brain](llm_brain.jpg)
+
+Does that mean that LLMs should be avoided in software development? We can, but there are some real benefits if you use them wisely.
+
+It is important to realise that these models are not software engineers or brains. They do not replace human thinking. They are automation, and if you use automation in a smart way in your software development, you can get a real benefit from it.
+
+They are pretty good rubber ducks, decent code reviewers and useful for reviewing your requirements and specs to show you potential blind spots. They can even write some code, but only if you have done all the work thoroughly before writing a single line of code. I've used LLMs in personal projects, the code that displays this blog is an example. I knew what I wanted, and I used it to good effect. Could I have done it without? Perhaps, but certainly not in the free time I have left.
+
+The ideation, the reasoning, the experience, the analysis, the deciding what is truly important, that must come from you. And that is true whether you are a junior starting your career or an experienced senior who has seen a lot more. And why? Because you are the one with the brains.
+
+Wasn't that always the job?
