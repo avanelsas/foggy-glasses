@@ -47,4 +47,6 @@
  :navbar-colors    true
 
  :page-colors true
+
+ :texture :grain
 }
