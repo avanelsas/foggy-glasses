@@ -10,7 +10,7 @@
  ;; The themes a reader can pick from, by the name of a BareDOM theme preset. The first is
  ;; the one a reader starts with. Every theme: "ocean" "default" "forest" "sunset"
  ;; "neo-brutalist" "aurora" "mono-ai" "warm-mineral".
- :available-themes ["ocean" "default" "forest" "sunset" "neo-brutalist" "aurora" "mono-ai" "warm-mineral"]
+ :available-themes ["ocean"]
 
  ;; How many posts a page of the home page shows
  :per-page         10
