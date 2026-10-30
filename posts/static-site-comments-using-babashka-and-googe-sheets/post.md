@@ -1,5 +1,7 @@
 # Static site comments using Babashka and Google Sheets
 
+![A comments section for a static site](comments-section.png)
+
 I wanted to extend my current static blog generator [BareBlog](https://github.com/avanelsas/bareblog) with the possibility to add a comments section. Since the blog is generated as a static site and published to Github Pages, this leaves me with several somewhat unattractive potential solutions.
 
 ## Static is not dynamic
