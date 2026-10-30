@@ -58,7 +58,7 @@ I did not like the idea of asking the blog owner to set up a Google sheet and co
 
 ### Setup
 
-After testing the whole setting up the sheet manually there were a few things that could be automated to make life easier for the blog owner. I created a set of [Babaskha](https://babashka.org/) command that guides the user through the setup and handling of comments.
+After testing the whole setting up the sheet manually there were a few things that could be automated to make life easier for the blog owner. I created a set of [Babashka](https://babashka.org/) command that guides the user through the setup and handling of comments.
 
 Run `bareblog comments connect` in the command line and it automatically copies a template sheet with the script to the Google account of the blog owner. and opens it.
 
@@ -114,4 +114,4 @@ I'm considering adding an option to automatically approve comments or blocks of 
 
 You can give it a try right here, as my blog already has implemented support for comments. Let me know what you think in a commment!
 
-#static_site_comments #babaskha #Google_Sheets #Clojure
+#static_site_comments #babashka #Google_Sheets #Clojure

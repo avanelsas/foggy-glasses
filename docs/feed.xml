@@ -15,7 +15,7 @@
     <updated>2026-10-30T13:54:15+01:00</updated>
     <summary>I wanted to extend my current static blog generator BareBlog with the possibility to add a comments section. Since the blog is generated as a static site and published to Github Pages, this leaves me with several somewhat unattractive potential solutions.</summary>
     <category term="static site comments"/>
-    <category term="babaskha"/>
+    <category term="babashka"/>
     <category term="Google Sheets"/>
     <category term="Clojure"/>
   </entry>
