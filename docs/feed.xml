@@ -4,15 +4,15 @@
   <id>https://avanelsas.github.io/foggy-glasses/</id>
   <link href="https://avanelsas.github.io/foggy-glasses/"/>
   <link rel="self" href="https://avanelsas.github.io/foggy-glasses/feed.xml"/>
-  <updated>2026-10-30T13:54:15+01:00</updated>
+  <updated>2026-10-30T14:56:34+01:00</updated>
   <author>
     <name>Alexander van Elsas</name>
   </author>
   <entry>
     <title>Static site comments using Babashka and Google Sheets</title>
-    <link href="https://avanelsas.github.io/foggy-glasses/static-site-comments-using-babashka-and-googe-sheets/"/>
-    <id>https://avanelsas.github.io/foggy-glasses/static-site-comments-using-babashka-and-googe-sheets/</id>
-    <updated>2026-10-30T13:54:15+01:00</updated>
+    <link href="https://avanelsas.github.io/foggy-glasses/static-site-comments-using-babashka-and-google-sheets/"/>
+    <id>https://avanelsas.github.io/foggy-glasses/static-site-comments-using-babashka-and-google-sheets/</id>
+    <updated>2026-10-30T14:56:34+01:00</updated>
     <summary>I wanted to extend my current static blog generator BareBlog with the possibility to add a comments section. Since the blog is generated as a static site and published to Github Pages, this leaves me with several somewhat unattractive potential solutions.</summary>
     <category term="static site comments"/>
     <category term="babashka"/>
