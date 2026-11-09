@@ -4,10 +4,17 @@
   <id>https://avanelsas.github.io/foggy-glasses/</id>
   <link href="https://avanelsas.github.io/foggy-glasses/"/>
   <link rel="self" href="https://avanelsas.github.io/foggy-glasses/feed.xml"/>
-  <updated>2026-10-30T14:56:34+01:00</updated>
+  <updated>2026-11-09T15:07:10+01:00</updated>
   <author>
     <name>Alexander van Elsas</name>
   </author>
+  <entry>
+    <title>Indifference is killing open-source software</title>
+    <link href="https://avanelsas.github.io/foggy-glasses/indifference-is-killing-open-source-software/"/>
+    <id>https://avanelsas.github.io/foggy-glasses/indifference-is-killing-open-source-software/</id>
+    <updated>2026-11-09T15:07:10+01:00</updated>
+    <summary>Looking at news sources for developers these days is a daunting task. Daily I see new projects and implementations of incredibly ambitious nature. On a typical day you might see announcements of people coding something in assembly, porting language A to platform B,…</summary>
+  </entry>
   <entry>
     <title>Static site comments using Babashka and Google Sheets</title>
     <link href="https://avanelsas.github.io/foggy-glasses/static-site-comments-using-babashka-and-google-sheets/"/>
