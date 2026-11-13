@@ -10,11 +10,11 @@ I find that I agree with most of these views and arguments. At the same time, I 
 
 I do not have that moral or ethical struggle with things like discrimination, war, crimes against humanity, lying and cheating, the way we treat our environment. There it seems clear to me what is right and what is wrong and how I feel about that.
 
-# The negative
+## The negative
 
 With this LLM stuff I find I struggle to draw a straight line or take up a strong position either way. I get the argument that it has an environmental impact, that there are only a few, possibly deranged, CEOs in control of this tech. That it might lose a lot of people their job, that it can lead to slop and dumbed down people, that it works because the companies have stolen intellectual property to train models, etc. These are all valid sentiments and arguments against the use of LLMs.
 
-# The "positive"
+## The "positive"
 
 And yet I use LLMs to solve problems I cannot easily fix any other way. The ethical and morally justified choice would be not to use LLMs. Which implies I probably should not use Google, Microsoft or Apple products either. Or services that reduce worker conditions like Uber (I don't use it). In general, technology is actively used to automate people's jobs away, so writing software becomes an ethical dilemma. I've grown up with technology, went to university to learn software engineering, have used and built technology in all my professional life.
 
@@ -22,7 +22,7 @@ Does that make me a morally abject person? An unethical idiot that blindly follo
 
 There are so many other things to worry about that it seems to me, and yes this is an easy way out, that this discussion sometimes feels futile to me.
 
-# So many other dilemma's
+## So many other dilemma's
 
 For example, we worry about the environmental impact of data centers, and yet every day we are willing to grow and slaughter billions of animals for food. The impact of this business on our environment dwarfs the impact data centers have on our environment.
 
@@ -36,7 +36,7 @@ We see power hungry rulers start wars, commit crimes against humanity, and we of
 
 I worry about my children, who have difficulty navigating this complex world. Often not being able to find a job, a home of their own, and with the weight of all our joint expectations on their shoulders.
 
-# Too much worry isn't healthy
+## Too much worry isn't healthy
 
 All of this is too much for me. There are so many things wrong with the world we live in that it can easily give me a feeling of helplessness. I am old enough to remember a time when traveling the world, meeting other people and cultures were amazing and positive experiences. Nowadays we are building stronger borders and see anything on the outside as a potential threat. I can't solve all the problems we face today, nor can I let them lead my life or happiness, because I would not have a life.
 
@@ -48,7 +48,7 @@ I am not a full-time software engineer. I have been running tech companies for t
 
 Does that make me a morally bankrupt or unethical person? Perhaps, I don't know.
 
-# We don't need more stuff. We need more things that we care about
+## We don't need more stuff. We need more things that we care about
 
 All I know is that I can only do my best to do what I can do. And that means I need to compromise. The difficulty for me is where to compromise. I could stop using LLMs, the world would not collapse on me. Yet there are clear benefits for me. Our team writes code, reviews it, and no matter how well we do our job, an LLM is ruthless in code reviews and will find human mistakes that we can fix. Should I deliver a platform that might fail due to human mistakes? Or should I do everything I can, including the use of an LLM, to remove as many mistakes as we are capable off?
 
