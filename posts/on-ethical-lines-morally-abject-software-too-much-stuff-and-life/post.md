@@ -57,3 +57,5 @@ I write this blog that is powered by a static blog generator I have created with
 I get it that other people will make other choices and I respect that. I must make choices too, and there are many more choices in life than this one. So, I need to compromise, to be able to deal with it all. I'm somewhere stuck in the middle, and all I can do is do the best that I can do to deliver what is expected of me.
 
 My compromise is to create things I care about, to the best of my ability. I use an LLM as an automation assistant, and I take responsibility for what I create. It is perhaps the easy way out and yet feels to me the best thing I can do to have a good and happy (professional) tech life. It is a dilemma, and I have no other answers to it than written here. Perhaps life will change my mind at some point. For now, it is what it is.
+
+#LLM #ethical #too_much_stuff
